@@ -1,6 +1,11 @@
-###              <h2 text-align :center>Hola,<img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height = 50px> I'm Pothu Abhilash</h2>
+###              <h2 text-align :center>Hola,<img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height = 30px> I'm Pothu Abhilash</h2>
 👩‍💻 About Me
   <li>👩🏻‍💻 Pronouns: he/Him </li>
+
+  <h3>🔥 Streaks</h3>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Pothu-Abhilash)](https://git.io/streak-stats)
+ 
+
 <!--
 **Pothu-Abhilash/Pothu-Abhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
