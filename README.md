@@ -1,6 +1,6 @@
 ###              <h2 text-align :center> Hi there Hola, I'm Pothu Abhilash</h2>
 👩‍💻 About Me
-  <li>👩🏻‍💻 Pronouns: She/Her </li>
+  <li>👩🏻‍💻 Pronouns: he/Him </li>
 <!--
 **Pothu-Abhilash/Pothu-Abhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
