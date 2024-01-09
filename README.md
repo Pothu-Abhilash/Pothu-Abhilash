@@ -1,4 +1,4 @@
-###              <h2 text-align :center> Hi there Hola, I'm Pothu Abhilash</h2>
+           <h2 text-align :center> Hi there Hola, I'm Pothu Abhilash</h2>
 👩‍💻 About Me
   <li>👩🏻‍💻 Pronouns: he/Him </li>
 <!--
