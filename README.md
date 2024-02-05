@@ -6,6 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align ="right" width =400px> <img src = "[https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)"</p>
 
 - 🌱 I’m currently learning **Java full stack**
 
